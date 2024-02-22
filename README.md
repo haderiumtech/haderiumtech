@@ -56,6 +56,6 @@
 </div>
 
 
-
-<img src="https://raw.githubusercontent.com/haderiumtech/haderiumtech/output/snake.svg" alt="Snake animation" />
-
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
